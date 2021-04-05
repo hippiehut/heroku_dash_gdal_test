@@ -8,7 +8,6 @@ dash-table==4.11.2
 Flask==1.1.2
 Flask-Compress==1.9.0
 future==0.18.2
-geopandas @ file:///tmp/build/80754af9/geopandas_1594937497867/work
 gunicorn==20.1.0
 itsdangerous==1.1.0
 Jinja2==2.11.3
