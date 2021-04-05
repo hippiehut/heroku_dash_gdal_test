@@ -66,7 +66,7 @@ dependencies:
   - postgresql=11.2=h3235a2c_0
   - proj=6.2.1=h9f7ef89_0
   - pyproj=2.6.1.post1=py38h593ac45_1
-  - python=3.6.13
+  - python=3.7
   - python-dateutil=2.8.1=pyhd3eb1b0_0
   - pytz=2021.1=pyhd3eb1b0_0
   - rtree=0.9.4=py38h21ff451_1
