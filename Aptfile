@@ -1,3 +1,4 @@
 gdal-bin
 python3-gdal
+dpkg-reconfigure
 dpkg-reconfigure python3
